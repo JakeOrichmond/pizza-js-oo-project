@@ -1,0 +1,14 @@
+.pizzaTitle {
+  text-align: center;
+  background-color: green;
+}
+
+
+form#pizzaOrder {
+  text-align: center;
+}
+
+.addNewPizza, .orderPizza {
+  text-align: center;
+  margin: 10px;
+}
