@@ -12,3 +12,7 @@ form#pizzaOrder {
   text-align: center;
   margin: 10px;
 }
+
+#pizzaCostDisplay {
+  display: none;
+}
